@@ -1,0 +1,58 @@
+html {
+    margin: 7px;
+    background-color: bisque;
+
+}
+
+#descExercicio {
+    background-color: brown;
+    border: 3px solid black;
+    padding-bottom: 3px;
+    text-align: center;
+    font-size: 25px;
+}
+
+
+#texto {
+    text-align: center;
+    border-bottom: solid 2px black;
+    margin-top: 1px;
+    font-size: 50px;
+
+
+}
+
+#input {}
+
+.caixaAlturaPeso {
+    text-align: center ;
+    font-size: 35px;
+
+}
+
+#peso {
+    font-size: 20px;
+    border-radius: 7px;
+    height: 45px;
+    width: 850px;
+}
+
+#altura {
+    font-size: 20px;
+    border-radius: 7px;
+    height: 45px;
+    width: 850px;
+
+}
+
+#resultado {
+    text-align: center;
+    font-size: 50px;
+   }
+
+.botcalculo {
+    font-size: 20px;
+    width: 150px;
+    background-color: brown;
+    border-radius: 10px;
+}
